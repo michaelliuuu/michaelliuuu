@@ -18,7 +18,7 @@
 
 ### About me:
 - Recently switched careers as an Electrician. Interested in where coding will take me!
-- Currently in school in Langara, working on my bachelors for Computer Science.
+- Currently in school at Langara, working on my bachelors for Computer Science.
 - I enjoy cooking/baking and staying active.
 
 ---
