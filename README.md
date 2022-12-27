@@ -3,15 +3,12 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/michaelliuu/">
-    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/mykaleee">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=ff69b4" alt=""/>
   </a>
 </div>
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=ff69b4" alt=""/>
-</div>  
 <div align="center"> 
   Ni howdy!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
@@ -22,7 +19,7 @@
 ### :man_technologist: About me:
 Learning how to become backend developer with experience with frontend development.
 - Recently switched careers as an Electrician. Interested in where coding will take me!
-- Currently in school at Langara, working on my bachelors for Computer Science and hoping to transfer to UBC in the fall to pursue an internship as a Junio Software Engineer.
+- Currently in school at Langara, working on my bachelors for Computer Science and hoping to transfer to UBC in the fall to pursue an internship as a Junior Software Engineer.
 - I enjoy cooking/baking because I love to eat, and I love going outdoors and staying active by playing recreation or competitive sports.
 - Currently working on a personal portfolio and various apps, and learning Unix Tools and Scripts.
 - You can contact me at [michaelliuu.com](mailto:michaelliuu@hotmail.com).
