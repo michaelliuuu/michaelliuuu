@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/michaelliuu/">
@@ -10,17 +10,17 @@
   </a>
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=ff69b4" alt=""/>
 </div>  
 <div align="center"> 
-  Hello!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Ni howdy!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </div>
 
 ---
 
 ### :man_technologist: About me:
-I am a Back-End Developer with experience with Front-End development.
+Learning how to become backend developer with experience with frontend development.
 - Recently switched careers as an Electrician. Interested in where coding will take me!
 - Currently in school at Langara, working on my bachelors for Computer Science and hoping to transfer to UBC in the fall to pursue an internship as a Junio Software Engineer.
 - I enjoy cooking/baking because I love to eat, and I love going outdoors and staying active by playing recreation or competitive sports.
@@ -30,6 +30,7 @@ I am a Back-End Developer with experience with Front-End development.
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -37,4 +38,9 @@ I am a Back-End Developer with experience with Front-End development.
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>  
-  
+
+---
+
+### :fire: My Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelliuuu&layout=compact&theme=vision-friendly-dark)](https://github.com/michaelliuuu/github-readme-stats)
