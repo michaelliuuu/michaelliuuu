@@ -17,12 +17,10 @@
 ---
 
 ### :man_technologist: About me:
-Learning how to become backend developer with experience with frontend development.
+Learning how to become backend developer.
 - Recently switched careers as an Electrician. Interested in where coding will take me!
 - Currently in school at Langara, working on my bachelors for Computer Science and hoping to transfer to UBC in the fall to pursue an internship as a Junior Software Engineer.
-- I enjoy cooking/baking because I love to eat, and I love going outdoors and staying active by playing recreation or competitive sports.
 - Currently working on a personal portfolio and various apps, and learning Unix Tools and Scripts.
-- You can contact me at [michaelliuu.com](mailto:michaelliuu@hotmail.com).
 
 ---
 
