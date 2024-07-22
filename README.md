@@ -19,7 +19,7 @@
 ### :man_technologist: About me:
 Learning how to become backend developer, but dabbling in frontend as well.
 - Recently switched careers as an Electrician. Interested in where coding will take me!
-- Formerly a Langara College student, working on my bachelors for Computer Science at UBC and pursuing an internship as a Software Engineer.
+- Formerly a Langara College student, working on my bachelors for Combined Major in Science (Computer Science, Physics, Earth and Environmental Sciences) at UBC and pursuing an internship as a Software Engineer.
 
 ---
 
