@@ -17,9 +17,9 @@
 ---
 
 ### :man_technologist: About me:
-Learning how to become backend developer, but dabbling in frontend as well.
-- Recently switched careers as an Electrician. Interested in where coding will take me!
-- Formerly a Langara College student, working on my bachelors for Combined Major in Science (Computer Science, Physics, Earth and Environmental Sciences) at UBC and pursuing an internship as a Software Engineer.
+Learning how to become Full Stack Developer.
+- Switched careers as an Electrician. Interested in where coding will take me!
+- Formerly a Langara College student, working on my bachelors for Combined Major in Science: Computer Science, Physics, Earth and Environmental Sciences at UBC and pursuing an internship as a Software Developer.
 
 ---
 
@@ -32,7 +32,7 @@ Learning how to become backend developer, but dabbling in frontend as well.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="CPLUSPLUS" alt="CPLUSPLUS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 </div>  
 
 ---
