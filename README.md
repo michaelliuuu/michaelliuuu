@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/michaelliuu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=michaelliuuu&style=flat-square&color=ff69b4" alt=""/>
-  </a>
 </div>
 <div align="center"> 
   Ni howdy!
@@ -17,9 +14,9 @@
 ---
 
 ### :man_technologist: About me:
-Learning how to become Full Stack Developer.
-- Switched careers as an Electrician. Interested in where coding will take me!
-- Formerly a Langara College student, working on my bachelors for Combined Major in Science: Computer Science, Physics, Earth and Environmental Sciences at UBC and pursuing an internship as a Software Developer.
+Learning how to become Full Stack Software Developer.
+- Formerly a Langara College student, I am currently working on my Bachelor of Science in Combined Major in Science: Computer Science, Physics, Earth and Environmental Sciences at the University of British Columbia and actively pursuing an internship as a Software Developer.
+- Switched careers as an Electrical Apprentice. Interested in where coding will take me!
 
 ---
 
@@ -32,7 +29,8 @@ Learning how to become Full Stack Developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="CPLUSPLUS" alt="CPLUSPLUS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
 </div>  
 
 ---
