@@ -15,8 +15,8 @@
 
 ### :man_technologist: About me:
 Learning how to become Full Stack Software Developer.
-- Formerly a Langara College student, I am currently working on my Bachelor of Science in Combined Major in Science: Computer Science, Physics, Earth and Environmental Sciences at the University of British Columbia and actively pursuing an internship as a Software Developer.
-- Switched careers as an Electrical Apprentice. Interested in where coding will take me!
+- I am a Bachelor of Science in Combined Major in Science: Computer Science, Physics, Earth and Environmental Sciences student at the University of British Columbia and actively pursuing an internship as a Software Developer.
+- Switched careers as an Electrical apprentice. Interested in where coding will take me!
 
 ---
 
@@ -29,8 +29,10 @@ Learning how to become Full Stack Software Developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="CPLUSPLUS" alt="CPLUSPLUS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-plain.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+  
 </div>  
 
 ---
